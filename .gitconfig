@@ -1,0 +1,9 @@
+[color]
+	ui = auto
+[user]
+	name = srned
+	email = srnedun@gmail.com
+[credential]
+	helper = cache --timeout=360000
+[core]
+	excludesfile = /home/user/.gitignore_global
